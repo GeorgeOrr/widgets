@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<a href="https://time.is/Littleton,_New_Hampshire" id="time_is_link" rel="nofollow" style="font-size:18px">Time in Littleton:</a>
+<span id="Littleton__New_Hampshire_z161" style="font-size:18px"></span>
+<script src="//widget.time.is/en.js"></script>
+<script>
+time_is_widget.init({Littleton__New_Hampshire_z161:{template:"TIME<br>SUN", time_format:"12hours:minutes:secondsAMPM", sun_format:"Sunrise: srhour:srminute Sunset: sshour:ssminute", coords:"44.3061700,-71.7700900"}});
+</script>
+
